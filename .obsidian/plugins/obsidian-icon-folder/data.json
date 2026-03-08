@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiFlower",
+      "LiHeart",
+      "LiClock",
       "LiArchive",
-      "LiBook",
-      "LiSquareDashed",
-      "LiLibraryBig",
-      "LiFolder"
+      "LiBook"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -38,5 +38,8 @@
   "1. Projects": "LiLibraryBig",
   "2. Areas": "LiSquareDashed",
   "3. Resources": "LiBook",
-  "4. Archive": "LiArchive"
+  "4. Archive": "LiArchive",
+  "Quick notes": "LiClock",
+  "2. Areas/Жиза/Маша": "LiHeart",
+  "2. Areas/Жиза/Маша/Цветы": "LiFlower"
 }

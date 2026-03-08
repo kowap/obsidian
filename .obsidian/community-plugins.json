@@ -2,5 +2,8 @@
   "obsidian-git",
   "obsidian-icon-folder",
   "highlightr-plugin",
-  "note-toolbar"
+  "note-toolbar",
+  "editing-toolbar",
+  "dataview",
+  "obsidian-emoji-toolbar"
 ]

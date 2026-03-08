@@ -17,7 +17,8 @@
   "obsidianUiVisibility": {},
   "onboarding": {
     "startup-help-view": true,
-    "startup-help-welcome": true
+    "startup-help-welcome": true,
+    "default-dc0bf35e-5a14-4390-931e-a42e20afac12": true
   },
   "ribbonAction": "toolbar",
   "ribbonToolbar": null,
@@ -40,7 +41,78 @@
   "textToolbar": null,
   "textToolbarOnKeyboard": true,
   "toolbarProp": "notetoolbar",
-  "toolbars": [],
+  "toolbars": [
+    {
+      "uuid": "dc0bf35e-5a14-4390-931e-a42e20afac12",
+      "commandPosition": "float",
+      "customClasses": "",
+      "defaultItem": null,
+      "defaultStyles": [
+        "border",
+        "even",
+        "sticky"
+      ],
+      "hasCommand": false,
+      "items": [
+        {
+          "uuid": "aa314269-4665-438a-a2fd-4a64c713f3c6",
+          "icon": "",
+          "label": "",
+          "tooltip": "",
+          "hasCommand": false,
+          "inGallery": false,
+          "link": "",
+          "linkAttr": {
+            "commandCheck": false,
+            "commandId": "",
+            "hasVars": false,
+            "type": "command"
+          },
+          "visibility": {
+            "desktop": {
+              "components": [
+                "icon",
+                "label"
+              ]
+            },
+            "mobile": {
+              "components": [
+                "icon",
+                "label"
+              ]
+            },
+            "tablet": {
+              "components": [
+                "icon",
+                "label"
+              ]
+            },
+            "viewMode": "all"
+          }
+        }
+      ],
+      "mobileStyles": [],
+      "name": "Нова панель",
+      "position": {
+        "desktop": {
+          "allViews": {
+            "position": "props"
+          }
+        },
+        "mobile": {
+          "allViews": {
+            "position": "props"
+          }
+        },
+        "tablet": {
+          "allViews": {
+            "position": "props"
+          }
+        }
+      },
+      "updated": "2026-03-08T02:38:12.203Z"
+    }
+  ],
   "version": 20260122.1,
   "webviewerToolbar": null,
   "whatsnew_version": "1.29"
