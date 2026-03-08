@@ -1,6 +1,7 @@
 {
-  "theme": "moonstone",
+  "theme": "obsidian",
   "accentColor": "#2682a1",
   "interfaceFontFamily": "",
-  "translucency": false
+  "translucency": false,
+  "cssTheme": "Atom"
 }

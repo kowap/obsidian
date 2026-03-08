@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "940c45c399096464",
+        "id": "068a75ab2fe2db8d",
         "type": "tabs",
         "children": [
           {
-            "id": "47695231dee23ce5",
+            "id": "56b04c62fd87c4bc",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "markdown",
+              "state": {
+                "file": "2. Areas/Cooking/Мультигриль.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Мультигриль"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2. Areas/Жиза/Маша/Цветы/💐 Нравится-не нравится.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Зворотні посилання"
+              "title": "Зворотні посилання для 💐 Нравится-не нравится"
             }
           },
           {
@@ -189,18 +194,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "47695231dee23ce5",
+  "active": "56b04c62fd87c4bc",
   "lastOpenFiles": [
-    "2. Areas/Жиза/Маша/Хочет.md",
-    "2. Areas/Жиза/Маша/Цветы/💐 Нравится-не нравится.md",
-    "2. Areas/Жиза/Маша/Цветы/💐 Мои.md",
-    "2. Areas/Жиза/Маша/❤️ Маша.md",
+    "2. Areas/Маша/Цветы/💐 Мои.md",
+    "2. Areas/Cooking/Мультигриль.md",
+    "2. Areas/Cooking",
+    "1. Projects/Pet projects/Game strategy",
+    "1. Projects/Pet projects",
+    "Без назви.canvas",
+    "Система хранения заметок (PARA).md",
+    "2. Areas/Работа/Services/CRM.md",
+    "2. Areas/Работа/Services/Без назви",
+    "2. Areas/Маша/Цветы/💐 Нравится-не нравится.md",
+    "2. Areas/Маша/Хочет.md",
+    "2. Areas/Маша/❤️ Маша.md",
     "0. Files/imeges/B0B73FFD-79F7-441D-890B-39BDBF61F24C.jpeg",
     "0. Files/imeges/IMG_0790.jpeg",
     "0. Files/imeges/IMG_0789.jpeg",
     "0. Files/imeges/B3CD0F7D-8EBC-4CA5-8630-8C0D762A1A61.jpeg",
     "0. Files/imeges/D4545F5B-4D94-4AC7-A03D-160A4446963F.jpeg",
-    "2. Areas/Жиза/Маша/Цветы",
+    "2. Areas/Маша/Цветы",
     "2. Areas/Жиза/Маша/Без назви.md",
     "0. Files/imeges/Ranunculus.webp",
     "0. Files/imeges",
@@ -211,15 +224,9 @@
     "1. Projects/Работа/Домены 9-12 марта.md",
     "2. Areas/Работа/Сотрудники/Arminlife.md",
     "4. Archive/Old projects/Работа",
-    "4. Archive/Old projects",
     "1. Projects/Работа/Настроить развертываение WP через нашу CRM.md",
-    "2. Areas/Работа/Services/CRM.md",
-    "Система хранения заметок (PARA).md",
     "Без назви.md",
-    "Quick notes",
-    "2. Areas/Жиза",
     "0. Files/Шаблоны/Template.md",
-    "Без назви.base",
     "2. Areas/Работа/Без назви.md",
     "2. Areas/Работа/Trafbrazza.md",
     "2. Areas/Работа/Без назви.canvas",
