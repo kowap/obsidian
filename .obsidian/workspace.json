@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Без назви.md",
+                "file": "Система хранения заметок (PARA).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Без назви"
+              "title": "Система хранения заметок (PARA)"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Без назви.md",
+                "file": "Система хранения заметок (PARA).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Зворотні посилання для Без назви"
+              "title": "Зворотні посилання для Система хранения заметок (PARA)"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Без назви.md",
+                "file": "Система хранения заметок (PARA).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Вихідні посилання з Без назви"
+              "title": "Вихідні посилання з Система хранения заметок (PARA)"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Без назви.md",
+                "file": "Система хранения заметок (PARA).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Вміст Без назви"
+              "title": "Вміст Система хранения заметок (PARA)"
             }
           }
         ]
@@ -184,10 +184,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2d34379a45af9608",
+  "active": "771b61f1b4679a47",
   "lastOpenFiles": [
+    "1. Areas/Работа",
+    "3. Archive",
+    "2. Resources",
+    "1. Areas",
+    "0. Projects",
+    "Система хранения заметок (PARA).md",
+    "0.",
     "Без назви.base",
-    "Без назви.md",
     "Вітаємо.md"
   ]
 }
