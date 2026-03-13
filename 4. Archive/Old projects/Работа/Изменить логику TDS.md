@@ -1,6 +1,9 @@
-Created: 09.03.2026 - 14:51
-Related: - [[CRM]]
-
+---
+created: "09.03.2026 14:51"
+tags:
+  - work/project
+related:
+  - "[[CRM]]"
 ---
 
 ## Notes

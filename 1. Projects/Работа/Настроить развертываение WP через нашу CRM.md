@@ -1,6 +1,11 @@
-Created: 08.03.2026 - 03:43
-Related: - [[Arminlife]], [[CRM]], [[Trafbrazza]]
-
+---
+created: "08.03.2026 03:43"
+tags:
+  - work/project
+related:
+  - "[[Arminlife]]"
+  - "[[CRM]]"
+  - "[[Trafbrazza]]"
 ---
 
 ## Notes

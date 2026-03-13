@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Projects/Работа/Создать свой деплой на CF в генераторе.md",
+                "file": "4. Archive/Old projects/Работа/Создать свой деплой на CF в генераторе.md",
                 "mode": "source",
                 "source": true
               },
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Archive/Old projects/Работа/Покупка доменов/покупка доменів до 20 березня.md",
-                "mode": "preview",
+                "file": "0. Files/Шаблоны/Work Project.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "покупка доменів до 20 березня"
+              "title": "Work Project"
             }
           }
         ],
@@ -189,8 +189,21 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "59bd3c7e3059e23a",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "0. Files/Шаблоны/Work Project.md"
+              },
+              "icon": "lucide-info",
+              "title": "Властивості файлу для Work Project"
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -209,30 +222,36 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "771b61f1b4679a47",
+  "active": "717caaca3fabff50",
   "lastOpenFiles": [
-    "Quick notes/Без назви.md",
+    "0. Files/Шаблоны/Template.md",
+    "0. Files/Шаблоны/Recipe.md",
+    "0. Files/Шаблоны/Domain Purchase.md",
+    "0. Files/Шаблоны/Daily Note.md",
+    "0. Files/Шаблоны/Bug Issue.md",
+    "2. Areas/Работа/Services/CRM.md",
+    "0. Files/Шаблоны/Work Project.md",
+    "2. Areas/Cooking/Мультигриль.md",
+    "4. Archive/Old projects/Работа/Создать свой деплой на CF в генераторе.md",
+    "1. Projects/Работа/Создать документацию по CRM.md",
+    "1. Projects/Работа/Пример таблицы для ипорта.md",
+    "4. Archive/Old projects/Работа/Правка по логам.md",
+    "1. Projects/Работа/Настроить развертываение WP через нашу CRM.md",
+    "4. Archive/Old projects/Добавить фильтра.md",
+    "2. Areas/Маша/Цветы/💐 Мои.md",
+    "2. Areas/Маша/Цветы/💐 Нравится-не нравится.md",
+    "4. Archive/Old projects/Работа/Покупка доменов/Домены 9-12 марта.md",
+    "4. Archive/Old projects/Работа/Изменить логику TDS.md",
     "4. Archive/Old projects/Работа/Покупка доменов/покупка доменів до 20 березня.md",
+    "Quick notes/Без назви.md",
     "2. Areas/Маша/❤️ Маша.md",
     "1. Projects/Работа/Schema.canvas",
     "Code Image from Ray.so.png",
     "Keitaro Client Code Image.png",
     "Code Image from Ray.so (1).png",
-    "1. Projects/Работа/Создать свой деплой на CF в генераторе.md",
     "cf-pages-deploy.sh",
-    "1. Projects/Работа/Настроить развертываение WP через нашу CRM.md",
     "1. Projects/Работа/Chrome plugin affbulk.md",
-    "1. Projects/Работа/Добавить фильтра.md",
-    "4. Archive/Old projects/Работа/Изменить логику TDS.md",
-    "1. Projects/Работа/Правка по логам.md",
-    "1. Projects/Работа/Создать документацию по CRM.md",
-    "1. Projects/Работа/Пример таблицы для ипорта.md",
-    "2. Areas/Работа/Services/CRM.md",
-    "2. Areas/Маша/Цветы/💐 Мои.md",
-    "2. Areas/Cooking/Мультигриль.md",
-    "4. Archive/Old projects/Работа/Покупка доменов/Домены 9-12 марта.md",
     "0. Files/imeges/B0B73FFD-79F7-441D-890B-39BDBF61F24C.jpeg",
-    "0. Files/Шаблоны/Template.md",
     "2. Areas/Маша/Хочет.md",
     "4. Archive/Old projects/Работа/Покупка доменов",
     "Quick notes/Маша, таблетки.md",
@@ -241,7 +260,6 @@
     "1. Projects/Pet projects",
     "Система хранения заметок (PARA).md",
     "2. Areas/Работа/Services/Без назви",
-    "2. Areas/Маша/Цветы/💐 Нравится-не нравится.md",
     "0. Files/imeges/IMG_0790.jpeg",
     "0. Files/imeges/IMG_0789.jpeg",
     "0. Files/imeges/B3CD0F7D-8EBC-4CA5-8630-8C0D762A1A61.jpeg",
@@ -253,11 +271,6 @@
     "0. Files/imeges/Image 7267 600x600.jpg",
     "3. Resources/Жиза/Маша",
     "3. Resources/Жиза",
-    "2. Areas/Работа/Сотрудники/Arminlife.md",
-    "Без назви.md",
-    "2. Areas/Работа/Без назви.md",
-    "2. Areas/Работа/Trafbrazza.md",
-    "2. Areas/Работа/Без назви.canvas",
-    "0. Files/Без назви.md"
+    "2. Areas/Работа/Без назви.canvas"
   ]
 }

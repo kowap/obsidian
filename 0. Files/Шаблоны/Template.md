@@ -1,6 +1,8 @@
-Created: {{date}} - {{time}}
-Related: - [[ ]]
-
+---
+created: "{{date}} {{time}}"
+tags: []
+related:
+  - "[[]]"
 ---
 
 ## Notes
