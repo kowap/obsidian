@@ -41,16 +41,100 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Projects/Работа/Домены покупка.md",
+                "file": "4. Archive/Old projects/Работа/Покупка доменов/Домены покупка.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Домены покупка"
             }
+          },
+          {
+            "id": "c6167d4f8331717c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. Archive/Old projects/Работа/Промт на создание генератора..md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Промт на создание генератора."
+            }
+          },
+          {
+            "id": "aac9ff7e1f91b24d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Projects/Работа/Страницы и дефолтные ключевые слова.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Страницы и дефолтные ключевые слова"
+            }
+          },
+          {
+            "id": "d1e63a52749f7a40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. Archive/Old projects/Работа/Покупка доменов/Домены покупка.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Домены покупка"
+            }
+          },
+          {
+            "id": "03945b2c246151e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quick notes/Без назви 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Без назви 2"
+            }
+          },
+          {
+            "id": "8e936ed50389a6a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quick notes/Перелинковка редиректами.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Перелинковка редиректами"
+            }
+          },
+          {
+            "id": "4a2d5fc8a3c52b3e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Projects/Работа/Додаткова аналітика.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Додаткова аналітика"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -82,7 +166,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "sportun",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -236,50 +320,50 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "771b61f1b4679a47",
+  "active": "4a2d5fc8a3c52b3e",
   "lastOpenFiles": [
+    "1. Projects/Работа/Настроить развертываение WP через нашу CRM.md",
+    "1. Projects/Работа/Пример таблицы для ипорта.md",
+    "1. Projects/Работа/Создать документацию по CRM.md",
+    "1. Projects/Работа/Страницы и дефолтные ключевые слова.md",
+    "4. Archive/Old projects/Работа/Изменить логику TDS.md",
+    "1. Projects/Работа/Додаткова аналітика.md",
+    "Quick notes/Перелинковка редиректами.md",
+    "Quick notes/Без назви 2.md",
+    "Quick notes/Без назви.md",
+    "2. Areas/Работа/Services/CRM.md",
+    "4. Archive/Old projects/Работа/Промт на создание генератора..md",
+    "2. Areas/Работа/Покупка доменів.md",
+    "4. Archive/Old projects/Работа/Покупка доменов/Домены покупка.md",
     "2. Areas/Cooking/Мультигриль.md",
-    "1. Projects/Работа/Домены покупка.md",
+    "Quick notes/2026-03-18.md",
     "0. Files/Шаблоны/Work Project.md",
     "0. Files/Шаблоны/Template.md",
     "0. Files/Шаблоны/Recipe.md",
     "0. Files/Шаблоны/Domain Purchase.md",
     "0. Files/Шаблоны/Daily Note.md",
     "0. Files/Шаблоны/Bug Issue.md",
-    "2. Areas/Работа/Services/CRM.md",
     "4. Archive/Old projects/Работа/Создать свой деплой на CF в генераторе.md",
-    "1. Projects/Работа/Создать документацию по CRM.md",
-    "1. Projects/Работа/Пример таблицы для ипорта.md",
     "4. Archive/Old projects/Работа/Правка по логам.md",
-    "1. Projects/Работа/Настроить развертываение WP через нашу CRM.md",
     "4. Archive/Old projects/Добавить фильтра.md",
     "2. Areas/Маша/Цветы/💐 Мои.md",
     "2. Areas/Маша/Цветы/💐 Нравится-не нравится.md",
-    "4. Archive/Old projects/Работа/Покупка доменов/Домены 9-12 марта.md",
-    "4. Archive/Old projects/Работа/Изменить логику TDS.md",
-    "4. Archive/Old projects/Работа/Покупка доменов/покупка доменів до 20 березня.md",
-    "2. Areas/Маша/❤️ Маша.md",
     "1. Projects/Работа/Schema.canvas",
     "Code Image from Ray.so.png",
     "Keitaro Client Code Image.png",
     "Code Image from Ray.so (1).png",
     "cf-pages-deploy.sh",
-    "1. Projects/Работа/Chrome plugin affbulk.md",
     "0. Files/imeges/B0B73FFD-79F7-441D-890B-39BDBF61F24C.jpeg",
-    "2. Areas/Маша/Хочет.md",
     "4. Archive/Old projects/Работа/Покупка доменов",
-    "Quick notes/Маша, таблетки.md",
     "2. Areas/Cooking",
     "1. Projects/Pet projects/Game strategy",
     "1. Projects/Pet projects",
-    "Система хранения заметок (PARA).md",
     "2. Areas/Работа/Services/Без назви",
     "0. Files/imeges/IMG_0790.jpeg",
     "0. Files/imeges/IMG_0789.jpeg",
     "0. Files/imeges/B3CD0F7D-8EBC-4CA5-8630-8C0D762A1A61.jpeg",
     "0. Files/imeges/D4545F5B-4D94-4AC7-A03D-160A4446963F.jpeg",
     "2. Areas/Маша/Цветы",
-    "2. Areas/Жиза/Маша/Без назви.md",
     "0. Files/imeges/Ranunculus.webp",
     "0. Files/imeges",
     "0. Files/imeges/Image 7267 600x600.jpg",
