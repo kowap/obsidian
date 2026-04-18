@@ -1,4 +1,5 @@
 {
   "newFileLocation": "folder",
-  "newFileFolderPath": "Quick notes"
+  "newFileFolderPath": "Quick notes",
+  "promptDelete": false
 }

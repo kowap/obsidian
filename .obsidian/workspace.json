@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quick notes/Без назви 3.md",
+                "file": "2. Areas/Работа/Services/CRM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Без назви 3"
+              "title": "CRM"
+            }
+          },
+          {
+            "id": "587606adc5f328dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Areas/Работа/Services/CRM.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CRM"
             }
           },
           {
@@ -27,12 +41,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quick notes/Без назви 3.md",
+                "file": "Quick notes/Новий шаблон на генерацію.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Без назви 3"
+              "title": "Новий шаблон на генерацію"
+            }
+          },
+          {
+            "id": "abe6bdfe14c78e0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quick notes/Перелинковка редиректами.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Перелинковка редиректами"
+            }
+          },
+          {
+            "id": "b0f96afe03bf49eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Projects/Работа/Страницы и дефолтные ключевые слова.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Страницы и дефолтные ключевые слова"
             }
           },
           {
@@ -41,15 +83,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quick notes/bunny.net.md",
+                "file": "3. Resources/Інструкція запуску статичного сайту на BunnyCDN.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "bunny.net"
+              "title": "Інструкція запуску статичного сайту на BunnyCDN"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -81,7 +124,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sportun",
+                "query": "kik",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -235,34 +278,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d1257a98273617db",
+  "active": "abe6bdfe14c78e0e",
   "lastOpenFiles": [
-    "Quick notes/Без назви 2.md",
-    "Quick notes/Без назви 1.md",
-    "3. Resources/Інструкція запуску статичного сайту на BunnyCDN.md",
-    "Quick notes/Абуза по бренду circus casino.md",
-    "Quick notes/Без назви 3.md",
-    "Quick notes/bunny.net.md",
-    "1. Projects/Работа/Додаткова аналітика.md",
+    "Quick notes/почты.md",
     "Quick notes/Перелинковка редиректами.md",
-    "4. Archive/Old projects/Работа/Покупка доменов/Домены покупка.md",
+    "Quick notes/Новий шаблон на генерацію.md",
+    "4. Archive/Old projects/Работа/Додаткова аналітика.md",
+    "Quick notes/Напоминание.md",
+    "Quick notes/Без назви 2.md",
+    "Quick notes/Без назви.md",
     "1. Projects/Работа/Страницы и дефолтные ключевые слова.md",
+    "1. Projects/Работа/Создать документацию по CRM.md",
+    "2. Areas/Маша/Цветы/💐 Мои.md",
+    "3. Resources/Інструкція запуску статичного сайту на BunnyCDN.md",
+    "2. Areas/Работа/Services/CRM.md",
+    "Quick notes/Без назви 3.md",
+    "Quick notes/Без назви 1.md",
+    "Quick notes/Абуза по бренду circus casino.md",
+    "Quick notes/2026-04-07.md",
+    "Quick notes/bunny.net.md",
+    "4. Archive/Old projects/Работа/Покупка доменов/Домены покупка.md",
     "4. Archive/Old projects/Работа/Промт на создание генератора..md",
     "2. Areas/Cooking/Мультигриль.md",
     "4. Archive/Old projects/Работа/Создать свой деплой на CF в генераторе.md",
     "1. Projects/Работа/Настроить развертываение WP через нашу CRM.md",
     "1. Projects/Работа/Пример таблицы для ипорта.md",
-    "1. Projects/Работа/Создать документацию по CRM.md",
     "4. Archive/Old projects/Работа/Изменить логику TDS.md",
-    "Quick notes/Без назви.md",
-    "2. Areas/Работа/Services/CRM.md",
     "2. Areas/Работа/Покупка доменів.md",
     "Quick notes/2026-03-18.md",
-    "0. Files/Шаблоны/Work Project.md",
-    "0. Files/Шаблоны/Template.md",
-    "0. Files/Шаблоны/Recipe.md",
-    "0. Files/Шаблоны/Domain Purchase.md",
-    "0. Files/Шаблоны/Daily Note.md",
     "1. Projects/Работа/Schema.canvas",
     "Code Image from Ray.so.png",
     "Keitaro Client Code Image.png",
